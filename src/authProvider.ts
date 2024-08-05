@@ -82,8 +82,8 @@ export const authProvider: AuthProvider = {
 
     return {
       id: 1,
-      name: "James Sullivan",
-      avatar: "https://i.pravatar.cc/150",
+      name: "Jeff Ubayi",
+      avatar: "https://avatars.githubusercontent.com/u/47192245?v=4",
     };
   },
 };
